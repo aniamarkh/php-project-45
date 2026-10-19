@@ -1,10 +1,15 @@
 {
     "name": "hexlet/code",
+    "description": "Brain Games",
+    "license": "MIT",
     "authors": [
         {
             "name": "anna",
             "email": "aniamarkh.staff@exbo.ru"
         }
+    ],
+    "bin": [
+        "bin/brain-games"
     ],
     "require": {}
 }
